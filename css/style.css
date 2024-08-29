@@ -135,6 +135,8 @@ a{
 }
 .products-container{
 	padding: 8px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
 }
 .scroll{
 	display: flex;
